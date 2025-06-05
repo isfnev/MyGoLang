@@ -8,5 +8,9 @@ func main(){
 
 	var b [3]int = [3]int{2,3,4}
 	var c = b[:]
-
+sfsfkjsfkjsa;kfdjs
+skdfjksjfksjfdkjs
+aksdjfksjdfksf
+skdjfskjdf;ksjfks
+sjdkfjsljdskfjsd
 }
