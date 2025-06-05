@@ -1,0 +1,8 @@
+git push origin --delete <branch-name>  -- > delete branch remotely in github.com
+git reset --hard HEAD~1 -- > get 1 commit back
+git reset --mixed HEAD~1 -- > get back from commit, to staging
+get reset --soft HEAD~1 -- > get back from commit, to unmodified but tracking
+get branch -- > name of the branch
+get branch -d <branch_name> -- > delete <branch_name>
+get branch -D <branch_name> -- > force delete <branch_name>
+
