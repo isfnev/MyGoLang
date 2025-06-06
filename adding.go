@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main() {}
 	// var a uint8 = 256   Gives Error
 	var a uint8 = 255
 	fmt.Printf("%T\n", a)
